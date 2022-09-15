@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "PipelineDesign-Client", "PipelineDesign-Client\PipelineDesign-Client.esproj", "{1A835075-C76B-47FA-BFB6-5F784C5FDBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipelineDesign-WebApi", "PipelineDesign-WebApi\PipelineDesign-WebApi.csproj", "{AC60CC82-BCF3-4EA3-8EA9-5A3669C169FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A835075-C76B-47FA-BFB6-5F784C5FDBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A835075-C76B-47FA-BFB6-5F784C5FDBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A835075-C76B-47FA-BFB6-5F784C5FDBFA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1A835075-C76B-47FA-BFB6-5F784C5FDBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A835075-C76B-47FA-BFB6-5F784C5FDBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A835075-C76B-47FA-BFB6-5F784C5FDBFA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AC60CC82-BCF3-4EA3-8EA9-5A3669C169FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC60CC82-BCF3-4EA3-8EA9-5A3669C169FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC60CC82-BCF3-4EA3-8EA9-5A3669C169FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC60CC82-BCF3-4EA3-8EA9-5A3669C169FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6B82DBC-435D-43BA-AD69-7E22E5271FA5}
+	EndGlobalSection
+EndGlobal
